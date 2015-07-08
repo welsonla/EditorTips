@@ -3,6 +3,31 @@
 1. cmd+T 快速查找文件
 2. cmd+R 列出当前类的方法
 
+###Setting-User
+```sh
+{
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"theme": "Cobalt2.sublime-theme",
+	"font_size": 16,
+	"font_face": "Droid Sans Mono",
+    "font_options": "subpixel_antialias",
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "bold_folder_labels": true,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	]
+}
+```
+
 
 ###辅助使用
 1.建立软连接，使sublime可以从shell中启动
@@ -22,3 +47,4 @@ import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed
 
 #####推荐插件
 1. gitgutter
+2. autocomplete
