@@ -7,7 +7,7 @@
 4. React Native Snippet
 5. VSCode Great Icons
 6. PHP IntelliSense
-
+7. Git Indicators
 
 ##### Themes
 1. Ayu
